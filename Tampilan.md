@@ -11,7 +11,7 @@
 ### hapus klinik ###
 ![Screenshot (275)](https://github.com/user-attachments/assets/270236f6-3c7d-4028-bf60-2954120a94c1)
 
-### logout ###
+### logout.php ###
 ![Screenshot (276)](https://github.com/user-attachments/assets/d18002ed-9a36-45dd-9d36-ec559bdbb07d)
 
 ### contact.php ###
